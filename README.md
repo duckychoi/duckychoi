@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! I'm Control and Machine Learning Engineer.</h1>
 <h3>also Associate Professor in Seoul National University of Science and Technology<h3>
-![](https://i.esdrop.com/d/ZklKfna5T3.jpg)
+![image1](https://i.esdrop.com/d/ZklKfna5T3.jpg)
 
 <p>Welcome to my page! </br> I'm Hyunduck Choi, AI developer, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Seoul, South Korea</b>. </p>
 <h3>Things I code with</h3>
