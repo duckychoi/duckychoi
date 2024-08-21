@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h3>also Associate Professor in Seoul National University of Science and Technology<h3>
 ![](https://i.esdrop.com/d/ZklKfna5T3.jpg)
 
-<p>Welcome to my page! </br> I'm Hyunduck Choi, AI developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Lorient, France</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Seoul, South Korea</b>. </p>
+<p>Welcome to my page! </br> I'm Hyunduck Choi, AI developer, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Seoul, South Korea</b>. </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
