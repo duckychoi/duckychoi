@@ -114,18 +114,14 @@ Research Area: Robust Control, Intelligent Control, Filter Design, Fuzzy and Neu
 
 
 <h3>Education</h3>
-Ph.D. in Electrical and Electronic Engineering, Korea University, (2013-2017)
-
-M.S. in Electrical and Electronic Engineering, Korea University, (2011-2013)
-
-B.S. in Electronic Engineering, Korea University, (2007-2011)
+<p><em>Ph.D. in Electrical and Electronic Engineering, Korea University, (2013-2017)</em></p>
+<p><em>M.S. in Electrical and Electronic Engineering, Korea University, (2011-2013)</em></p>
+<p><em>B.S. in Electronic Engineering, Korea University, (2007-2011)</em></p>
 
 <h3>Experience</h3>
-Assistant Professor, School of Electronics and Computer Engineering, Chonnam National University (2019.09 – 2024.08)
-
-Principal Research Engineer, AI Development Group, Samsung Electronics Co.,Ltd. (2018.10 - 2019.08)
-
-Principal Research Engineer, Air Suspension Engineering Team, Hyundai Mobis Co.,Ltd. (2017.03 - 2018.09)
+<p><em>Assistant Professor, School of Electronics and Computer Engineering, Chonnam National University (2019.09 – 2024.08)</em></p>
+<p><em>Principal Research Engineer, AI Development Group, Samsung Electronics Co.,Ltd. (2018.10 - 2019.08)</em></p>
+<p><em>Principal Research Engineer, Air Suspension Engineering Team, Hyundai Mobis Co.,Ltd. (2017.03 - 2018.09)</em></p>
 
 <h3>Where to find me</h3>
 <p><a href="https://github.com/duckychoi" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/ducky87/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://scholar.google.com/citations?hl=ko&user=SIfp2fUAAAAJ" target="_blank"><img alt="Google" src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" /></a>
