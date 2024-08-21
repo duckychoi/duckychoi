@@ -117,14 +117,12 @@ Research Area: Robust Control, Intelligent Control, Filter Design, Fuzzy and Neu
 Ph.D. in Electrical and Electronic Engineering, Korea University, (2013-2017)
 
 M.S. in Electrical and Electronic Engineering, Korea University, (2011-2013)
-
 B.S. in Electronic Engineering, Korea University, (2007-2011)
 
 <h3>Experience</h3>
 Assistant Professor, School of Electronics and Computer Engineering, Chonnam National University (2019.09 – 2024.08)
 
 Principal Research Engineer, AI Development Group, Samsung Electronics Co.,Ltd. (2018.10 - 2019.08)
-
 Principal Research Engineer, Air Suspension Engineering Team, Hyundai Mobis Co.,Ltd. (2017.03 - 2018.09)
 
 <h3>Where to find me</h3>
