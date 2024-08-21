@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 <p><em>Control & AI Engineer, graduated from <a href="https://www.korea.ac.kr/mbshome/mbs/university/index.do">Korea University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Associate Professor at <a href="https://www.seoultech.ac.kr/index.jsp">Seoul National University of Science and Technology</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
+Research Area: Robust Control, Intelligent Control, Filter Design, Fuzzy and Neural Network, AI, Reinforcement Learning, Autonomous Driving, Visual SLAM, Multi-modal Sensors Fusion (LiDAR, camera, IMU, etc.) and its applications to Robot, Quadrotor and Vehicle
 <p>Welcome to my page! </br> I'm currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Seoul, South Korea</b>. </p>
 <h3>Things I code with</h3>
 <p>
