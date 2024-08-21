@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi!, I'm Hyun Duck Choi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 <img align='right' src="https://caltechsites-prod.s3.amazonaws.com/scienceexchange/images/can_we_trust_AI.2e16d0ba.fill-933x525-c100.jpg" width="320">
+<img align='right' src="https://photos.google.com/photo/AF1QipM_drIgIT1nocYSu56wkdUK62Q8vPHClk_heI-J.jpg" width="320">
 <p><em>Control & AI Engineer, graduated from <a href="https://www.korea.ac.kr/mbshome/mbs/university/index.do">Korea University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Associate Professor at <a href="https://www.seoultech.ac.kr/index.jsp">Seoul National University of Science and Technology</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
